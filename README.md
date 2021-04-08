@@ -1,7 +1,7 @@
 # Decision Tree Implementation
 
 The pythonic implementation of a decision tree classifier that is able to preprocess data, recursively built a tree and prune the resultant tree. 
-[Learn more about decision tree learning](https://en.wikipedia.org/wiki/Decision_tree_learning)
+[Learn more about decision tree learning.](https://en.wikipedia.org/wiki/Decision_tree_learning)
 
 ## Installation
 
